@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Rice Shop</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in_info">Log in</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="register_click">REGISTER</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="menu_text">Menu</string>
+    <string name="order_text">Order</string>
+    <string name="payment_text">Payment</string>
+    <string name="about_text">About</string>
+    <string name="search">Search</string>
+    <string name="article_text">Company started its operation
+        \nin 2017, and has become
+        \nfocusing on rice business. The
+        \nbusiness covers an extensive
+        \nscale of activities ranging
+        \nfrom processing,packaging to
+        \nproducing more than 5
+        \ndifferent varieties of rice
+        \nproduct under the flagship.
+        \n\nRenowned household names like
+        \n1. Jati,
+        \n2. Kapal Layar
+        \n3. Carnation,
+        \n4. Fres-Harves.
+        \n5. ecoBrown\'s</string>
+</resources>

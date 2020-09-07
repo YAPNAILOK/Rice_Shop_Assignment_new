@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "327040394818",
+    "firebase_url": "https://rice-shop-tarc.firebaseio.com",
+    "project_id": "rice-shop-tarc",
+    "storage_bucket": "rice-shop-tarc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327040394818:android:7c62c34f33a197677b2fdb",
+        "android_client_info": {
+          "package_name": "com.example.riceshopassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327040394818-08spjnkhmprboqhe3q04ag3mset3c6q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riceshopassignment",
+            "certificate_hash": "95bbf4e45a55dab9419f7c9648aa13ebfcc0e82c"
+          }
+        },
+        {
+          "client_id": "327040394818-rfso38tbmcdupla9vs5c5lkk8313rihn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5NyGJkWgREWLjaFiMJUO8B19u721nsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327040394818-rfso38tbmcdupla9vs5c5lkk8313rihn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327040394818:android:ece4e1138a4b9bfa7b2fdb",
+        "android_client_info": {
+          "package_name": "com.example.riceshopassignmentnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327040394818-6g40qp3sgmurfim73kuo5c88ju11ovpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riceshopassignmentnew",
+            "certificate_hash": "95bbf4e45a55dab9419f7c9648aa13ebfcc0e82c"
+          }
+        },
+        {
+          "client_id": "327040394818-rfso38tbmcdupla9vs5c5lkk8313rihn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5NyGJkWgREWLjaFiMJUO8B19u721nsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327040394818-rfso38tbmcdupla9vs5c5lkk8313rihn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
