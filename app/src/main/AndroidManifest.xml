@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AboutActivity"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".ecoOriginalDetailActivity" />
+        <activity android:name=".ecoGoldDetailActivity" />
+        <activity android:name=".KapalLayarBiruActivity" />
+        <activity android:name=".AppleGoldDetailActivity" />
+        <activity android:name=".JatiRebusDetailActivity" />
+        <activity android:name=".JatiSuperDetailActivity" />
+        <activity android:name=".AboutActivity" />
         <activity android:name=".HomePageActivity" />
         <activity android:name=".SignupActivity" />
         <activity android:name=".LoginActivity">

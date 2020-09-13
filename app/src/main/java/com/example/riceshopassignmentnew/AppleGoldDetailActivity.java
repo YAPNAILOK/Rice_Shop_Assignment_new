@@ -6,18 +6,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class AboutActivity extends AppCompatActivity {
+public class AppleGoldDetailActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_about);
-
-
+        setContentView(R.layout.activity_apple_gold_detail);
     }
 
     public void back(View view) {
-        Intent intent = new Intent(AboutActivity.this, HomePageActivity.class);
+        Intent intent = new Intent(AppleGoldDetailActivity.this, MainActivity.class);
         startActivity(intent);
     }
 }

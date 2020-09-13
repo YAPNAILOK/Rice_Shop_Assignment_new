@@ -25,6 +25,15 @@ public class HomePageActivity extends AppCompatActivity {
         picPayment = (CardView) findViewById(R.id.cardView3);
         picAbout = (CardView) findViewById(R.id.cardView4);
 
+        picMenu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent int1 = new Intent(HomePageActivity.this, MainActivity.class);
+                startActivity(int1);
+            }
+        });
+
+
         picAbout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
